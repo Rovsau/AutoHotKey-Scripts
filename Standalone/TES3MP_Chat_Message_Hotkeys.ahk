@@ -1,5 +1,5 @@
 ﻿/*
-    # TES3MP Chat Message Hotkeys, by Rovsau @ Github
+    # TES3MP Chat Message Hotkeys, by Rovsau @ GitHub
 */
 #Persistent  ; Keep the script running
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.

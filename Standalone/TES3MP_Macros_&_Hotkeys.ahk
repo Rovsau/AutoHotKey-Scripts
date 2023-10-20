@@ -44,8 +44,8 @@ Debug("Script start")
 ; In-game open chat hotkey
 global chat := "y"
 
-^F12::Reload ; Reload Script (CTRL + F12)
 OnExit("RestoreInput")
+^F12::Reload ; Reload Script (CTRL + F12)
 #IfWinActive, ahk_exe tes3mp.exe
 
 F5::Chat("/s") 	; Storage
